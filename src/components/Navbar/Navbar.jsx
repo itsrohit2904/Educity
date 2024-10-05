@@ -8,7 +8,7 @@ const Navbar = () => {
 
   useEffect(()=> {
     window.addEventListener('scroll',()=>{
-      window.scrollY >880 ? setSticky(true):setSticky(false)
+      window.scrollY >780 ? setSticky(true):setSticky(false)
     })
   },[])
   const [mobileMenu,setMobileMenu]=useState(false);
