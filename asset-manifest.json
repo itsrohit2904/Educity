@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/educity/static/css/main.412740ae.css",
+    "main.js": "/educity/static/js/main.ef0fe4a1.js",
+    "static/media/hero.png": "/educity/static/media/hero.1c44fc731e824d345d6b.png",
+    "static/media/video_college.mp4": "/educity/static/media/video_college.c5ab723fdf08c263eaec.mp4",
+    "static/media/about.png": "/educity/static/media/about.ae79f7c4ba002987bed7.png",
+    "static/media/program-3.png": "/educity/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-1.png": "/educity/static/media/program-1.a77b437944c963838cea.png",
+    "static/media/program-2.png": "/educity/static/media/program-2.72b615ee1f3e9b493416.png",
+    "static/media/gallery-3.png": "/educity/static/media/gallery-3.cc599987b9e13cee8fcc.png",
+    "static/media/gallery-4.png": "/educity/static/media/gallery-4.2d4f350efbdf6fc200a8.png",
+    "static/media/gallery-1.png": "/educity/static/media/gallery-1.901e63cc3af8b9273073.png",
+    "static/media/gallery-2.png": "/educity/static/media/gallery-2.cb423b37437ac0ff6f31.png",
+    "static/media/user-2.png": "/educity/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/educity/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-4.png": "/educity/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/educity/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/educity/index.html",
+    "main.412740ae.css.map": "/educity/static/css/main.412740ae.css.map",
+    "main.ef0fe4a1.js.map": "/educity/static/js/main.ef0fe4a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412740ae.css",
+    "static/js/main.ef0fe4a1.js"
+  ]
+}
