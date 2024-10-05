@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/educity/static/css/main.412740ae.css",
-    "main.js": "/educity/static/js/main.ef0fe4a1.js",
+    "main.js": "/educity/static/js/main.432e0701.js",
     "static/media/hero.png": "/educity/static/media/hero.1c44fc731e824d345d6b.png",
     "static/media/video_college.mp4": "/educity/static/media/video_college.c5ab723fdf08c263eaec.mp4",
     "static/media/about.png": "/educity/static/media/about.ae79f7c4ba002987bed7.png",
@@ -18,10 +18,10 @@
     "static/media/user-1.png": "/educity/static/media/user-1.1f46bb883fe387830efd.png",
     "index.html": "/educity/index.html",
     "main.412740ae.css.map": "/educity/static/css/main.412740ae.css.map",
-    "main.ef0fe4a1.js.map": "/educity/static/js/main.ef0fe4a1.js.map"
+    "main.432e0701.js.map": "/educity/static/js/main.432e0701.js.map"
   },
   "entrypoints": [
     "static/css/main.412740ae.css",
-    "static/js/main.ef0fe4a1.js"
+    "static/js/main.432e0701.js"
   ]
 }
